@@ -1,0 +1,212 @@
+#小程序页面相关设置
+press:
+  base: #基础设置
+    logo: https://www.seifly.cn/wp-content/v1/images/heard-icon.png
+    title: jarpress小程序（开源版）
+    description: jarpress小程序（开源版）
+    keywords: seifly,jarpress,wordpress
+    list_mode: 3
+    background: https://www.seifly.cn/wp-content/v1/images/id_bg.png
+    wx_ad: false
+    share_title: jarpress小程序（开源版）
+    share_thumb: https://www.seifly.cn/wp-content/v1/images/mywechat.jpg
+    #注册默认头像
+    avatar_url: https://www.seifly.cn/wp-content/v1/images/feifly.jpg
+    wordpress_url: http://jarpress.seifly.cn
+    post_default_url: http://jarpress.seifly.cn/wp-content/img/post_default_img.png
+  index: #首页设置
+    top_nav: 1,3 #顶部导航 分类id,逗号分隔
+    #第三行按钮
+    icon_nav: [
+                { title: 本代码下载,
+                 icon: https://www.seifly.cn/wp-content/v1/images/Q2.png,
+                 link: https://gitee.com/sablog/jarpress,
+                 switchStr: 1},
+                { title: AI网站导航,
+                  icon: https://www.seifly.cn/wp-content/v1/images/Q1.png,
+                  link: https://www.seifly.cn,
+                  switchStr: 1 },
+                { title: 官网,
+                  icon: https://www.seifly.cn/wp-content/v1/images/Q3.png,
+                  link: https://www.seifly.cn,
+                  switchStr: 1 },
+                { title: 商务合作,
+                  icon: https://www.seifly.cn/wp-content/v1/images/Q4.png,
+                  link: https://www.seifly.cn,
+                  switchStr: 1 }
+              ]
+    hot: 12,9 #首页热门 文章id,逗号分隔
+    #热门文章默认图片地址
+    hot_default_img: https://www.seifly.cn/wp-content/v1/images/post_hot_default_cover.png
+    #类型封面默认值
+    category_default_img:
+      - https://www.seifly.cn/wp-content/v1/images/terms-ai-learn.png
+      - https://www.seifly.cn/wp-content/v1/images/terms-java-learn.png
+      - https://www.seifly.cn/wp-content/v1/images/terms-java-learn.png
+    #首页横广告位
+    home_slide: [
+                  {
+                    image: https://www.seifly.cn/wp-content/v1/images/ad6.png,
+                    link: http://test30.seifly.cn/,
+                    switchStr: 1
+                  },
+                  { #首页横广告位
+                    image: https://www.seifly.cn/wp-content/v1/images/ad-3.jpg,
+                    link: http://test30.seifly.cn/,
+                    switchStr: 1
+                  },
+                  { #首页横广告位
+                    image: https://www.seifly.cn/wp-content/v1/images/ad7.png,
+                    link: http://test30.seifly.cn/,
+                    switchStr: 1
+                  }
+                ]
+    actives: #首页小广告位
+      left:
+        image: https://www.seifly.cn/wp-content/v1/images/ad1.png
+        title: 多种主题
+        link: http://test30.seifly.cn/
+      right_top:
+        image: https://www.seifly.cn/wp-content/v1/images/ad5.png
+        title: 功能清单
+        link: http://test30.seifly.cn/
+      right_down:
+        image: https://www.seifly.cn/wp-content/v1/images/ad4.jpeg
+        title: 微信客服、加群交流
+        link: http://test30.seifly.cn/
+  my: #我的设置
+    login:
+      background: https://www.seifly.cn/wp-content/v1/images/id_bg.jpg
+      yhxy: 26 # 隐私协议 对应帖子id
+      ystk: 30 # 用户条款 对应帖子id
+    category: #分类设置
+      background: https://www.seifly.cn/wp-content/v1/images/ad9.jpeg
+      description: 无论是知识分享、热点追踪还是兴趣社群，你的内容从此清晰可见，价值翻倍！
+      title: 爱你所爱
+      wx_ad: adunit-e5e921e77bd06335
+      #分类封面
+      cover: https://www.seifly.cn/wp-content/v1/images/terms-java-learn.png
+    hot: #热榜设置
+      background: https://www.seifly.cn/wp-content/v1/images/ad10.jpeg
+      description: 犀利观点炸场，下一个金句王就是你！
+      title: 热门神帖
+      tl_background: https://www.seifly.cn/wp-content/v1/images/timeline_bg.png
+
+    ucenter: # 我的设置
+      background: https://www.seifly.cn/wp-content/v1/images/21212.png
+      beian_icp: {
+                  link: https://beian.miit.gov.cn/,
+                  sn: 浙ICP备2022037480号
+                 }
+    # 菜单设置
+    menu: [
+      {
+        tp: link,
+        icon: https://www.seifly.cn/wp-content/v1/images/11.png,
+        title: 小花贝贝（开源版）,
+        link: wxfa9bc1d6297b473a,
+        page_id: ,
+        line: yes,
+        switchStr: 1
+      },
+      {
+        tp: page,
+        icon: https://www.seifly.cn/wp-content/v1/images/info-o-1.png,
+        title: 关于我们,
+        link: ,
+        page_id: 21,
+        line: yes,
+        switchStr: 1
+      },
+      {
+        tp: likes,
+        icon: https://www.seifly.cn/wp-content/v1/images/赞-1-2.png,
+        title: 点过的赞,
+        link: ,
+        page_id: ,
+        line: yes,
+        switchStr: 1
+      },
+      {
+        tp: views,
+        icon: https://www.seifly.cn/wp-content/v1/images/eye-o-1.png,
+        title: 浏览记录,
+        link: ,
+        page_id: ,
+        line: yes,
+        switchStr: 1
+      },
+      {
+        tp: favorites,
+        icon: https://www.seifly.cn/wp-content/v1/images/star-o-1.png,
+        title: 我的收藏,
+        link: ,
+        page_id: ,
+        line: yes,
+        switchStr: 1
+      },
+      {
+        tp: comments,
+        icon: https://www.seifly.cn/wp-content/v1/images/评论-2.png,
+        title: 我的评论,
+        link: ,
+        page_id: ,
+        line: yes,
+        switchStr: 1
+      },
+      {
+        tp: split,
+        icon: ,
+        title: ,
+        link: ,
+        page_id: ,
+        line: yes,
+        switchStr: 1
+      },
+      {
+        tp: feedback,
+        icon: https://www.seifly.cn/wp-content/v1/images/smile-comment-o-1.png,
+        title: 意见反馈,
+        link: ,
+        page_id: ,
+        line: yes,
+        switchStr: 1
+      },
+      {
+        tp: contact,
+        icon: https://www.seifly.cn/wp-content/v1/images/客服-1-2.png,
+        title: 在线客服,
+        link: ,
+        page_id: ,
+        line: yes,
+        switchStr: 1
+      },
+      {
+        tp: page,
+        icon: https://www.seifly.cn/wp-content/v1/images/111.png,
+        title: 免责声明,
+        link: ,
+        page_id: 15,
+        line: yes,
+        switchStr: 1
+      },
+      {
+        tp: clear,
+        icon: https://www.seifly.cn/wp-content/v1/images/delete-60x64-1.png,
+        title: 清除缓存,
+        link: ,
+        page_id: ,
+        line: yes,
+        switchStr: 1
+      },
+      {
+        tp: score,
+        icon: https://www.seifly.cn/wp-content/v1/images/star-o-1.png,
+        title: 评价打分,
+        link: ,
+        page_id: ,
+        line: yes,
+        switchStr: 1
+      }
+          ]
+

@@ -1,0 +1,884 @@
+20:21:38.634 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+20:21:38.665 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 79609 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+20:21:38.666 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+20:21:41.739 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+20:21:41.742 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+20:21:41.742 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+20:21:41.862 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+20:21:45.852 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+20:21:47.419 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+20:21:47.475 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 9.474 seconds (JVM running for 11.757)
+20:25:59.707 [Thread-25] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+20:25:59.707 [Thread-25] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+20:25:59.723 [Thread-25] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+20:25:59.753 [Thread-25] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+20:25:59.770 [Thread-25] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+20:25:59.776 [Thread-25] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+20:25:59.786 [Thread-25] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+20:26:00.335 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 79609 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+20:26:00.336 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+20:26:02.613 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+20:26:02.614 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+20:26:02.614 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+20:26:02.625 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+20:26:04.985 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-2} inited
+20:26:05.791 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+20:26:05.833 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 5.662 seconds (JVM running for 270.13)
+20:26:07.234 [Thread-31] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+20:26:07.238 [Thread-31] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+20:26:07.266 [Thread-31] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+20:26:07.288 [Thread-31] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+20:26:07.300 [Thread-31] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+20:26:07.303 [Thread-31] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-2} closing ...
+20:26:07.313 [Thread-31] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-2} closed
+20:26:07.978 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 79609 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+20:26:07.979 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+20:26:08.950 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+20:26:08.951 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+20:26:08.951 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+20:26:08.959 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+20:26:11.202 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-3} inited
+20:26:12.531 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+20:26:12.548 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 4.664 seconds (JVM running for 276.845)
+20:28:30.252 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+20:28:30.256 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-3} closing ...
+20:28:30.260 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-3} closed
+20:28:38.367 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+20:28:38.398 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 79872 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+20:28:38.399 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+20:28:41.037 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+20:28:41.039 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+20:28:41.040 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+20:28:41.130 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+20:28:44.165 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+20:28:45.554 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+20:28:45.606 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.737 seconds (JVM running for 9.359)
+20:30:21.041 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+20:30:21.049 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+20:30:21.060 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+21:11:36.897 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+21:11:36.915 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 80580 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+21:11:36.917 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+21:11:39.912 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:11:39.914 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:11:39.915 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+21:11:40.018 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:11:43.286 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+21:11:44.678 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:11:44.845 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 8.476 seconds (JVM running for 9.819)
+21:15:24.429 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+21:15:24.432 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+21:15:24.439 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+21:23:14.240 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+21:23:14.271 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 80904 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+21:23:14.272 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+21:23:16.787 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:23:16.788 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:23:16.789 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+21:23:16.876 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:23:19.904 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+21:23:21.323 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:23:21.373 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.628 seconds (JVM running for 8.841)
+21:24:17.509 [http-nio-8080-exec-3] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:24:17.509 [http-nio-8080-exec-3] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+21:24:17.517 [http-nio-8080-exec-3] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 8 ms
+21:24:57.242 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+21:24:57.246 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+21:24:57.254 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+21:25:00.420 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+21:25:00.452 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 81032 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+21:25:00.453 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+21:25:03.212 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:25:03.214 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:25:03.215 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+21:25:03.302 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:25:06.278 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+21:25:07.583 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:25:07.637 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.737 seconds (JVM running for 9.154)
+21:25:15.594 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:25:15.594 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+21:25:15.597 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 3 ms
+21:26:21.695 [Thread-22] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+21:26:21.696 [Thread-22] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+21:26:21.698 [Thread-22] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+21:26:21.703 [Thread-22] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+21:26:21.715 [Thread-22] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+21:26:21.724 [Thread-22] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+21:26:21.728 [Thread-22] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+21:26:21.736 [Thread-22] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+21:26:22.192 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 81032 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+21:26:22.192 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+21:26:23.238 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:26:23.239 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:26:23.239 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+21:26:23.247 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:26:25.018 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-2} inited
+21:26:25.777 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:26:25.795 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 3.746 seconds (JVM running for 87.315)
+21:26:27.197 [Thread-28] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+21:26:27.198 [Thread-28] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+21:26:27.207 [Thread-28] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+21:26:27.216 [Thread-28] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+21:26:27.220 [Thread-28] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+21:26:27.223 [Thread-28] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-2} closing ...
+21:26:27.227 [Thread-28] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-2} closed
+21:26:27.721 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 81032 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+21:26:27.721 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+21:26:28.355 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:26:28.356 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:26:28.356 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+21:26:28.363 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:26:29.526 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-3} inited
+21:26:30.577 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:26:30.593 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.936 seconds (JVM running for 92.114)
+21:28:07.266 [Thread-32] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+21:28:07.267 [Thread-32] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+21:28:07.280 [Thread-32] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+21:28:07.296 [Thread-32] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+21:28:07.303 [Thread-32] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+21:28:07.308 [Thread-32] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-3} closing ...
+21:28:07.314 [Thread-32] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-3} closed
+21:28:07.840 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 81032 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+21:28:07.840 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+21:28:08.653 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:28:08.654 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:28:08.654 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+21:28:08.664 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:28:10.928 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-4} inited
+21:28:11.809 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:28:11.825 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 4.044 seconds (JVM running for 193.349)
+21:28:13.246 [Thread-36] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+21:28:13.248 [Thread-36] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+21:28:13.257 [Thread-36] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+21:28:13.264 [Thread-36] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+21:28:13.270 [Thread-36] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+21:28:13.272 [Thread-36] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-4} closing ...
+21:28:13.277 [Thread-36] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-4} closed
+21:28:13.758 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 81032 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+21:28:13.759 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+21:28:14.360 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:28:14.361 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:28:14.361 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+21:28:14.368 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:28:15.424 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-5} inited
+21:28:16.159 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:28:16.200 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.498 seconds (JVM running for 197.725)
+21:29:24.800 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+21:29:24.805 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-5} closing ...
+21:29:24.810 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-5} closed
+21:29:30.969 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+21:29:30.998 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 81180 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+21:29:30.999 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+21:29:33.602 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:29:33.603 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:29:33.604 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+21:29:33.719 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:29:36.628 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+21:29:38.010 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:29:38.061 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.755 seconds (JVM running for 9.268)
+21:29:44.625 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:29:44.626 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+21:29:44.628 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 2 ms
+21:33:10.388 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+21:33:10.396 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+21:33:10.408 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+21:33:16.312 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+21:33:16.343 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 81382 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+21:33:16.344 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+21:33:18.993 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:33:18.995 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:33:18.995 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+21:33:19.090 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:33:22.118 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+21:33:23.524 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:33:23.577 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.75 seconds (JVM running for 9.061)
+21:33:27.233 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:33:27.233 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+21:33:27.237 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 4 ms
+21:34:51.684 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+21:34:51.689 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+21:34:51.699 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+21:39:10.471 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+21:39:10.502 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 81833 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+21:39:10.503 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+21:39:13.031 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:39:13.033 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:39:13.034 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+21:39:13.145 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:39:16.113 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+21:39:17.507 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:39:17.556 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.586 seconds (JVM running for 9.3)
+21:40:17.077 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:40:17.077 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+21:40:17.083 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 5 ms
+21:40:21.564 [Thread-21] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+21:40:21.565 [Thread-21] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+21:40:21.566 [Thread-21] INFO  o.a.c.c.StandardWrapper - [log,173] - Waiting for [2] instance(s) to be deallocated for Servlet [dispatcherServlet]
+21:40:21.977 [Thread-21] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+21:40:21.990 [Thread-21] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+21:40:22.074 [Thread-21] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+21:40:22.086 [Thread-21] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+21:40:22.091 [Thread-21] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+21:40:22.099 [Thread-21] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+21:40:22.480 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 81833 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+21:40:22.481 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+21:40:23.248 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:40:23.248 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:40:23.248 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+21:40:23.258 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:40:24.591 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-2} inited
+21:40:25.448 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+21:40:25.468 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 3.054 seconds (JVM running for 77.215)
+21:42:16.074 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:42:16.077 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+21:42:16.080 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 3 ms
+21:59:08.260 [Thread-27] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+21:59:08.262 [Thread-27] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+21:59:08.267 [Thread-27] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+21:59:08.287 [Thread-27] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+21:59:08.316 [Thread-27] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+21:59:08.324 [Thread-27] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+21:59:08.327 [Thread-27] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-2} closing ...
+21:59:08.329 [Thread-27] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-2} closed
+21:59:09.182 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 81833 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+21:59:09.183 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+21:59:10.163 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+21:59:10.164 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+21:59:10.164 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+21:59:10.173 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+21:59:10.936 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-0} closing ...
+21:59:10.941 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:00:02.798 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 81833 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:00:02.803 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:00:43.902 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+22:00:43.934 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82328 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:00:43.935 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:00:46.644 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:00:46.646 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:00:46.646 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:00:46.744 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:00:49.830 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+22:00:51.134 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:00:51.186 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.777 seconds (JVM running for 9.221)
+22:02:21.789 [Thread-21] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+22:02:21.790 [Thread-21] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:02:21.797 [Thread-21] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+22:02:21.848 [Thread-21] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+22:02:21.860 [Thread-21] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:02:21.864 [Thread-21] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+22:02:21.874 [Thread-21] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+22:02:22.212 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82328 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:02:22.213 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:02:23.266 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:02:23.266 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:02:23.266 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:02:23.280 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:02:24.414 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-0} closing ...
+22:02:24.419 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:02:26.026 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82328 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:02:26.027 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:02:26.719 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:02:26.720 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:02:26.720 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:02:26.729 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:02:27.922 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-2} inited
+22:02:28.778 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:02:28.794 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.838 seconds (JVM running for 106.833)
+22:07:17.812 [Thread-27] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+22:07:17.814 [Thread-27] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:07:17.821 [Thread-27] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+22:07:17.833 [Thread-27] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+22:07:17.839 [Thread-27] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:07:17.842 [Thread-27] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-2} closing ...
+22:07:17.850 [Thread-27] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-2} closed
+22:07:18.531 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82328 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:07:18.532 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:07:19.749 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:07:19.749 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:07:19.750 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:07:19.770 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:07:20.408 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-0} closing ...
+22:07:20.412 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:07:47.670 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82328 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:07:47.671 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:07:48.803 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:07:48.803 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:07:48.803 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:07:48.821 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:07:49.490 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-0} closing ...
+22:07:49.494 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:08:20.706 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82328 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:08:20.707 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:08:21.371 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:08:21.371 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:08:21.371 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:08:21.378 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:08:22.491 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-3} inited
+22:08:23.219 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:08:23.234 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.584 seconds (JVM running for 461.288)
+22:12:19.394 [Thread-34] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+22:12:19.395 [Thread-34] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:12:19.406 [Thread-34] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+22:12:19.430 [Thread-34] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+22:12:19.436 [Thread-34] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:12:19.438 [Thread-34] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-3} closing ...
+22:12:19.444 [Thread-34] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-3} closed
+22:12:20.089 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82328 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:12:20.090 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:12:21.142 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:12:21.143 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:12:21.143 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:12:21.158 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:12:21.788 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-0} closing ...
+22:12:21.792 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:13:21.890 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82328 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:13:21.890 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:13:23.046 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:13:23.046 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:13:23.047 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:13:23.059 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:13:24.755 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-4} inited
+22:13:25.544 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:13:25.559 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 3.741 seconds (JVM running for 763.626)
+22:16:42.860 [Thread-44] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+22:16:42.862 [Thread-44] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:16:42.871 [Thread-44] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+22:16:42.889 [Thread-44] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+22:16:42.894 [Thread-44] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:16:42.896 [Thread-44] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-4} closing ...
+22:16:42.901 [Thread-44] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-4} closed
+22:16:43.702 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82328 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:16:43.703 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:16:44.734 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:16:44.735 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:16:44.735 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:16:44.744 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:16:45.320 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-0} closing ...
+22:16:45.324 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:18:38.475 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82328 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:18:38.476 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:18:39.340 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:18:39.340 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:18:39.341 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:18:39.353 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:18:40.153 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-0} closing ...
+22:18:40.159 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:18:41.686 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82328 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:18:41.686 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:18:42.296 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:18:42.296 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:18:42.296 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:18:42.304 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:18:43.420 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-5} inited
+22:18:44.184 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:18:44.199 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.566 seconds (JVM running for 1082.279)
+22:18:52.363 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:18:52.367 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-5} closing ...
+22:18:52.373 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-5} closed
+22:18:55.911 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+22:18:55.943 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82816 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:18:55.944 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:18:59.945 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:18:59.947 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:18:59.948 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:19:00.056 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:19:03.358 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+22:19:04.753 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:19:04.808 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 9.411 seconds (JVM running for 11.038)
+22:19:17.102 [http-nio-8080-exec-4] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:19:17.102 [http-nio-8080-exec-4] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+22:19:17.105 [http-nio-8080-exec-4] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 2 ms
+22:35:48.747 [Thread-25] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+22:35:48.748 [Thread-25] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:35:48.752 [Thread-25] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+22:35:48.762 [Thread-25] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+22:35:48.776 [Thread-25] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+22:35:48.785 [Thread-25] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:35:48.789 [Thread-25] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+22:35:48.793 [Thread-25] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+22:35:49.158 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82816 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:35:49.159 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:35:50.049 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:35:50.051 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:35:50.052 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:35:50.064 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:35:50.997 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-0} closing ...
+22:35:51.003 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:35:52.589 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 82816 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:35:52.589 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:35:53.435 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:35:53.436 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:35:53.436 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:35:53.445 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:35:54.562 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-2} inited
+22:35:55.331 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:35:55.348 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.825 seconds (JVM running for 1021.621)
+22:37:38.194 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:37:38.197 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-2} closing ...
+22:37:38.203 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-2} closed
+22:37:45.158 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+22:37:45.190 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 83296 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:37:45.191 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:37:47.929 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:37:47.930 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:37:47.931 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:37:48.021 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:37:51.219 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+22:37:52.639 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:37:52.692 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 8.063 seconds (JVM running for 9.386)
+22:40:15.533 [Thread-22] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+22:40:15.534 [Thread-22] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:40:15.542 [Thread-22] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+22:40:16.569 [Thread-22] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+22:40:16.652 [Thread-22] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:40:16.656 [Thread-22] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+22:40:16.664 [Thread-22] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+22:40:17.110 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 83296 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:40:17.111 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:40:18.061 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:40:18.061 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:40:18.062 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:40:18.071 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:40:19.983 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-2} inited
+22:40:20.886 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:40:20.904 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 3.895 seconds (JVM running for 157.604)
+22:40:22.302 [Thread-28] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+22:40:22.303 [Thread-28] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:40:22.311 [Thread-28] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+22:40:22.320 [Thread-28] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+22:40:22.326 [Thread-28] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:40:22.328 [Thread-28] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-2} closing ...
+22:40:22.332 [Thread-28] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-2} closed
+22:40:22.894 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 83296 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:40:22.894 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:40:23.561 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:40:23.561 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:40:23.561 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:40:23.569 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:40:24.726 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-3} inited
+22:40:25.559 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:40:25.575 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.745 seconds (JVM running for 162.276)
+22:41:45.514 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:41:45.516 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+22:41:45.518 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 2 ms
+22:46:09.956 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:46:09.961 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-3} closing ...
+22:46:09.966 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-3} closed
+22:49:34.209 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+22:49:34.240 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 83586 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:49:34.241 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:49:36.801 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:49:36.803 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:49:36.803 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:49:36.892 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:49:39.877 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+22:49:41.174 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:49:41.222 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.483 seconds (JVM running for 9.488)
+22:49:49.120 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:49:49.121 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+22:49:49.123 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 2 ms
+22:53:41.553 [Thread-21] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+22:53:41.554 [Thread-21] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:53:41.555 [Thread-21] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+22:53:41.559 [Thread-21] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+22:53:42.024 [Thread-21] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+22:53:42.068 [Thread-21] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:53:42.071 [Thread-21] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+22:53:42.077 [Thread-21] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+22:53:42.475 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 83586 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:53:42.475 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:53:43.755 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:53:43.756 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:53:43.756 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:53:43.766 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:53:45.490 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-2} inited
+22:53:46.306 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:53:46.325 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 3.949 seconds (JVM running for 254.601)
+22:53:47.722 [Thread-27] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+22:53:47.724 [Thread-27] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:53:47.731 [Thread-27] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+22:53:47.741 [Thread-27] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+22:53:47.746 [Thread-27] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:53:47.748 [Thread-27] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-2} closing ...
+22:53:47.752 [Thread-27] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-2} closed
+22:53:48.308 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 83586 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:53:48.309 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:53:48.948 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:53:48.949 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:53:48.949 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:53:48.956 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:53:50.169 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-3} inited
+22:53:50.936 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:53:50.953 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.709 seconds (JVM running for 259.229)
+22:54:10.818 [Thread-31] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+22:54:10.825 [Thread-31] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:54:10.843 [Thread-31] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+22:54:10.879 [Thread-31] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+22:54:10.888 [Thread-31] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:54:10.891 [Thread-31] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-3} closing ...
+22:54:10.895 [Thread-31] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-3} closed
+22:54:11.331 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 83586 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:54:11.331 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:54:12.637 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:54:12.638 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:54:12.639 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:54:12.649 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:54:13.858 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-4} inited
+22:54:14.744 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:54:14.759 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 3.49 seconds (JVM running for 283.036)
+22:58:17.776 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+22:58:17.781 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-4} closing ...
+22:58:17.787 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-4} closed
+22:58:24.007 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+22:58:24.037 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 83830 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+22:58:24.038 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+22:58:26.657 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:58:26.660 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:58:26.661 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+22:58:26.759 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:58:30.477 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+22:58:31.766 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:58:31.821 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 8.304 seconds (JVM running for 9.721)
+22:58:53.786 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:58:53.786 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+22:58:53.789 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 3 ms
+23:00:20.706 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:00:20.711 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+23:00:20.738 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+23:00:26.439 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+23:00:26.469 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 83900 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:00:26.470 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:00:29.016 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:00:29.018 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:00:29.018 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:00:29.110 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:00:32.176 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+23:00:33.578 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:00:33.662 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.715 seconds (JVM running for 8.993)
+23:00:44.746 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:00:44.746 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+23:00:44.750 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 4 ms
+23:02:49.869 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:02:49.873 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+23:02:49.881 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+23:02:53.045 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+23:02:53.077 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 83978 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:02:53.078 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:02:55.622 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:02:55.624 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:02:55.624 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:02:55.713 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:02:58.677 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+23:03:00.011 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:03:00.061 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.533 seconds (JVM running for 8.836)
+23:05:07.031 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:05:07.032 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+23:05:07.036 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 4 ms
+23:09:53.948 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:09:53.955 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+23:09:53.964 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+23:10:00.664 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+23:10:00.707 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84129 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:10:00.708 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:10:04.108 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:10:04.109 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:10:04.110 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:10:04.198 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:10:07.193 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+23:10:08.524 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:10:08.575 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 8.755 seconds (JVM running for 10.177)
+23:10:14.129 [Thread-24] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+23:10:14.130 [Thread-24] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:10:14.154 [Thread-24] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+23:10:14.175 [Thread-24] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+23:10:14.192 [Thread-24] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:10:14.199 [Thread-24] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+23:10:14.227 [Thread-24] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+23:10:14.642 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84129 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:10:14.642 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:10:15.568 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:10:15.569 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:10:15.570 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:10:15.583 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:10:18.298 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-2} inited
+23:10:19.122 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:10:19.140 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 4.573 seconds (JVM running for 20.743)
+23:10:20.539 [Thread-30] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+23:10:20.540 [Thread-30] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:10:20.549 [Thread-30] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+23:10:20.557 [Thread-30] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+23:10:20.562 [Thread-30] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:10:20.565 [Thread-30] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-2} closing ...
+23:10:20.568 [Thread-30] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-2} closed
+23:10:21.132 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84129 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:10:21.132 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:10:21.842 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:10:21.843 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:10:21.843 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:10:21.852 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:10:23.114 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-3} inited
+23:10:23.995 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:10:24.013 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.944 seconds (JVM running for 25.617)
+23:10:24.606 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:10:24.608 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+23:10:24.610 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 2 ms
+23:14:30.086 [Thread-34] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+23:14:30.087 [Thread-34] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:14:30.089 [Thread-34] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+23:14:30.095 [Thread-34] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+23:14:30.104 [Thread-34] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+23:14:30.108 [Thread-34] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:14:30.110 [Thread-34] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-3} closing ...
+23:14:30.114 [Thread-34] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-3} closed
+23:14:30.723 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84129 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:14:30.723 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:14:31.519 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:14:31.520 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:14:31.520 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:14:31.533 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:14:32.098 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-0} closing ...
+23:14:32.104 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:23:41.574 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84129 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:23:41.574 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:23:42.319 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:23:42.321 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:23:42.322 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:23:42.335 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:23:43.623 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-0} closing ...
+23:23:43.634 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:23:45.257 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84129 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:23:45.258 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:23:46.350 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:23:46.350 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:23:46.351 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:23:46.359 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:23:47.164 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-0} closing ...
+23:23:47.169 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:25:03.592 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84129 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:25:03.592 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:25:04.425 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:25:04.426 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:25:04.426 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:25:04.436 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:25:05.688 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-0} closing ...
+23:25:05.693 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:25:07.217 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84129 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:25:07.217 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:25:07.886 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:25:07.886 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:25:07.886 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:25:07.895 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:25:09.099 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-4} inited
+23:25:09.911 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:25:09.927 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.759 seconds (JVM running for 911.567)
+23:26:35.502 [Thread-38] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+23:26:35.505 [Thread-38] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:26:35.518 [Thread-38] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+23:26:35.533 [Thread-38] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+23:26:35.554 [Thread-38] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:26:35.574 [Thread-38] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-4} closing ...
+23:26:35.582 [Thread-38] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-4} closed
+23:26:36.493 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84129 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:26:36.494 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:26:37.219 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:26:37.220 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:26:37.220 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:26:37.231 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:26:38.425 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-5} inited
+23:26:39.271 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:26:39.289 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.852 seconds (JVM running for 1000.933)
+23:27:00.703 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:27:00.706 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-5} closing ...
+23:27:00.710 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-5} closed
+23:27:04.483 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+23:27:04.513 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84543 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:27:04.515 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:27:07.557 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:27:07.559 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:27:07.559 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:27:07.669 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:27:10.758 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+23:27:12.102 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:27:12.153 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 8.273 seconds (JVM running for 10.198)
+23:27:18.537 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:27:18.538 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+23:27:18.541 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 3 ms
+23:28:05.390 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:28:05.396 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+23:28:05.407 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+23:28:11.253 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+23:28:11.282 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84574 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:28:11.283 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:28:13.810 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:28:13.812 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:28:13.812 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:28:13.902 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:28:16.796 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+23:28:18.100 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:28:18.152 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.367 seconds (JVM running for 8.721)
+23:28:30.622 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:28:30.622 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+23:28:30.627 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 5 ms
+23:30:11.517 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:30:11.525 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+23:30:11.537 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+23:30:14.589 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+23:30:14.619 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84629 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:30:14.620 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:30:17.145 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:30:17.146 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:30:17.147 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:30:17.234 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:30:20.167 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+23:30:21.550 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:30:21.609 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.501 seconds (JVM running for 8.718)
+23:30:31.173 [Thread-21] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+23:30:31.173 [Thread-21] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:30:31.180 [Thread-21] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+23:30:31.195 [Thread-21] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+23:30:31.209 [Thread-21] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:30:31.214 [Thread-21] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+23:30:31.225 [Thread-21] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+23:30:31.620 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84629 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:30:31.620 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:30:32.329 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:30:32.330 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:30:32.330 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:30:32.338 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:30:33.789 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-2} inited
+23:30:34.561 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:30:34.578 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 3.04 seconds (JVM running for 21.688)
+23:30:49.425 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:30:49.428 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-2} closing ...
+23:30:49.432 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-2} closed
+23:30:52.446 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+23:30:52.475 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84658 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:30:52.476 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:30:55.152 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:30:55.154 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:30:55.154 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:30:55.255 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:30:58.211 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+23:30:59.564 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:30:59.616 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 7.655 seconds (JVM running for 9.01)
+23:31:06.480 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:31:06.480 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+23:31:06.483 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 3 ms
+23:31:52.287 [http-nio-8080-exec-18] INFO  c.s.m.w.w.c.LoginInterceptor - [preHandle,42] - token过期
+23:33:01.583 [http-nio-8080-exec-23] INFO  c.s.m.w.w.c.LoginInterceptor - [preHandle,42] - token过期
+23:37:44.497 [Thread-22] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+23:37:44.497 [Thread-22] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:37:44.499 [Thread-22] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+23:37:44.503 [Thread-22] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+23:37:44.514 [Thread-22] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+23:37:44.523 [Thread-22] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:37:44.526 [Thread-22] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+23:37:44.533 [Thread-22] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+23:37:44.857 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 84658 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:37:44.857 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:37:45.569 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:37:45.569 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:37:45.570 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:37:45.581 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:37:46.775 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-2} inited
+23:37:47.490 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:37:47.507 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.717 seconds (JVM running for 417.05)
+23:38:19.413 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:38:19.417 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-2} closing ...
+23:38:19.420 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-2} closed
+23:43:58.049 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+23:43:58.068 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 85200 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:43:58.069 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:44:01.186 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:44:01.188 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:44:01.189 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:44:01.299 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:44:04.927 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+23:44:06.365 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:44:06.433 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 8.93 seconds (JVM running for 10.468)
+23:44:09.775 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:44:09.779 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+23:44:09.786 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+23:44:13.682 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+23:44:13.727 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 85238 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:44:13.729 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:44:16.537 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:44:16.540 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:44:16.540 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:44:16.630 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:44:19.873 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+23:44:21.499 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:44:21.588 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 8.45 seconds (JVM running for 9.9)
+23:45:24.489 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:45:24.489 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+23:45:24.492 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 2 ms
+23:45:33.779 [http-nio-8080-exec-9] INFO  c.s.m.w.w.c.LoginInterceptor - [preHandle,42] - token过期
+23:50:50.907 [http-nio-8080-exec-20] INFO  c.s.m.w.w.c.LoginInterceptor - [preHandle,42] - token过期
+23:51:46.634 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:51:46.640 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+23:51:46.648 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+23:51:49.858 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+23:51:49.890 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 85422 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:51:49.891 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:51:52.798 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:51:52.801 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:51:52.801 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:51:52.908 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:51:56.247 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+23:51:57.651 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:51:57.707 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 8.378 seconds (JVM running for 9.7)
+23:52:25.543 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:52:25.544 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+23:52:25.549 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 5 ms
+23:52:27.556 [http-nio-8080-exec-3] INFO  c.s.m.w.w.c.LoginInterceptor - [preHandle,42] - token过期
+23:56:58.406 [Thread-23] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+23:56:58.406 [Thread-23] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:56:58.408 [Thread-23] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+23:56:58.412 [Thread-23] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+23:56:59.149 [Thread-23] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+23:56:59.175 [Thread-23] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:56:59.179 [Thread-23] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-1} closing ...
+23:56:59.186 [Thread-23] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-1} closed
+23:56:59.619 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 85422 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:56:59.620 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:57:00.884 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:57:00.885 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:57:00.885 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:57:00.898 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:57:03.220 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-2} inited
+23:57:04.193 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:57:04.210 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 4.691 seconds (JVM running for 316.221)
+23:57:05.616 [Thread-29] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+23:57:05.618 [Thread-29] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:57:05.626 [Thread-29] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+23:57:05.636 [Thread-29] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+23:57:05.640 [Thread-29] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:57:05.642 [Thread-29] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-2} closing ...
+23:57:05.646 [Thread-29] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-2} closed
+23:57:06.204 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 85422 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:57:06.205 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:57:06.939 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:57:06.939 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:57:06.939 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:57:06.947 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:57:08.156 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-3} inited
+23:57:09.026 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:57:09.043 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 2.908 seconds (JVM running for 321.055)
+23:58:39.638 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+23:58:39.644 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2174] - {dataSource-3} closing ...
+23:58:39.649 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2247] - {dataSource-3} closed
+23:58:45.634 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.5.Final
+23:58:45.665 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarting,55] - Starting JavaPressApplication using Java 1.8.0_201 on mac-sxfdeMacBook-Pro.local with PID 85634 (/Users/sxf/java-project-me/jarpress/seifly-javapress/javapress-app/target/classes started by sxf in /Users/sxf/java-project-me/jarpress)
+23:58:45.666 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStartupProfileInfo,638] - The following 1 profile is active: "dev"
+23:58:48.850 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+23:58:48.853 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:58:48.853 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.83]
+23:58:48.947 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:58:52.153 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1009] - {dataSource-1} inited
+23:58:53.718 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+23:58:53.780 [restartedMain] INFO  c.s.m.w.JavaPressApplication - [logStarted,61] - Started JavaPressApplication in 8.636 seconds (JVM running for 10.135)
+23:58:58.951 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:58:58.951 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+23:58:58.955 [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 4 ms
+23:59:00.211 [http-nio-8080-exec-3] INFO  c.s.m.w.w.c.LoginInterceptor - [preHandle,42] - token过期
+23:59:01.803 [http-nio-8080-exec-4] INFO  c.s.m.w.w.c.LoginInterceptor - [preHandle,42] - token过期

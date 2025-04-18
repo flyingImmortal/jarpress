@@ -1,0 +1,7 @@
+wx:
+  miniapp:
+    app-id: wxfa9bc1d6297b473a
+    secret: c36d7ddf532b8a9b358b0691373555a7
+    token: #微信小程序消息服务器配置的token
+    aesKey: #微信小程序消息服务器配置的EncodingAESKey
+    msgDataFormat: JSON

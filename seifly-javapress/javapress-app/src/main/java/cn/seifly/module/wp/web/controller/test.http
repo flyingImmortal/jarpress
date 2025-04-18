@@ -1,0 +1,5 @@
+###
+GET http://localhost:8080/java-press/v1/setting/home
+
+###
+GET http://localhost:8080/wp-json/jarpress/v1/posts/last?offset=0&token=false&t=1742657838302&r=431&os=wx
